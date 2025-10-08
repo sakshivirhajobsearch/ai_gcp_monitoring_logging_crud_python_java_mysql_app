@@ -1,0 +1,6 @@
+flask
+google-cloud-monitoring
+google-cloud-logging
+pandas
+numpy
+mysql-connector-python
