@@ -60,4 +60,3 @@ Thumbs.db
 # Environment variables
 # ==============================
 .env
-*.json
